@@ -1,0 +1,10 @@
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe.config
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\bin\Debug\test.exe
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\bin\Debug\test.pdb
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\obj\Debug\test.frmMain.resources
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\obj\Debug\test.csproj.GenerateResource.Cache
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\obj\Debug\test.exe
+C:\Users\kevin\OneDrive - ROC West-Brabant\Visual Studio 2017\Projects\test\test\obj\Debug\test.pdb
