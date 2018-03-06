@@ -28,22 +28,22 @@ namespace DeGokkers
             Animals = new Animal[4];
 
             Bettors[0] = new Guy() {
-                Cash = 20,
-                Name = "Kevin",
+                Cash = 50,
+                Name = "Sietse",
                 MyRadiobutton = rbPlayer1,
                 MyLabel = txtDescp1
         };
 
             Bettors[1] = new Guy() {
-                Cash = 20,
-                Name = "Pieter Jan",
+                Cash = 75,
+                Name = "Lidy",
                 MyRadiobutton = rbPlayer2,
                 MyLabel = txtDescp2
             };
 
             Bettors[2] = new Guy() {
-                Cash = 20,
-                Name = "Allaith",
+                Cash = 45,
+                Name = "Fer",
                 MyRadiobutton = rbPlayer3,
                 MyLabel = txtDescp3
         };
@@ -183,11 +183,11 @@ namespace DeGokkers
 
         public void chooseAnimal()
         {
-            if (radioButton1.Checked == true)
+            if (rb_Dolphin.Checked == true)
             {
                 animalnum = 1;
             }
-            else if (radioButton2.Checked == true)
+            else if (rb_Shark.Checked == true)
             {
                 animalnum = 2;
             }
@@ -228,7 +228,6 @@ namespace DeGokkers
         private void choose_Click(object sender, EventArgs e)
         {
             chooseAnimal();
-            groupBox4.Enabled = false;
         }
     }
 }
